@@ -1,0 +1,34 @@
+h1{
+    background-color: darkorange;
+}
+*{
+border: darkorange;
+}
+
+body{
+background-color:darkorange
+}
+
+.header{
+    
+
+display: flex;
+justify-content:stretch;
+
+
+
+}
+
+.first{
+
+display: flex;
+flex-wrap: wrap;
+
+justify-content:space-around;
+
+
+}
+
+
+
+
